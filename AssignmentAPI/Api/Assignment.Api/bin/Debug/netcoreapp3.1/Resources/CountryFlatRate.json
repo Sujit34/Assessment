@@ -1,0 +1,20 @@
+{
+  "CountryFlatRates": [
+    {
+      "CurrencyCode": "MXN",
+      "FlatRate": 0.024
+    },
+    {
+      "CurrencyCode": "INR",
+      "FlatRate": 3.213
+    },
+    {
+      "CurrencyCode": "PHP",
+      "FlatRate": 2.437
+    },
+    {
+      "CurrencyCode": "GTQ",
+      "FlatRate": 0.056
+    }
+  ]
+}

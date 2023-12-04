@@ -1,0 +1,20 @@
+{
+  "CountryCurrencies": [
+    {
+      "CountryCode": "MEX",
+      "CurrencyCode": "MXN"
+    },
+    {
+      "CountryCode": "IND",
+      "CurrencyCode": "INR"
+    },
+    {
+      "CountryCode": "PHL",
+      "CurrencyCode": "PHP"
+    },
+    {
+      "CountryCode": "GTM",
+      "CurrencyCode": "GTQ"
+    }
+  ]
+}
